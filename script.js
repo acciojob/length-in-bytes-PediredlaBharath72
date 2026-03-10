@@ -1,5 +1,11 @@
 const byteSize = (str) => {
-  // write your code here
+   let var1 = "bharath"
+
+let count = 0
+
+for (let i of var1){
+  return count++
+}
 };
 
 // Do not change the code below
